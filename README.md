@@ -4,3 +4,10 @@ NOTE :
 ADMIN DETAILS : Username - admin | Password - admin
 Remember to migrate your models first using 'python manage.py migrate' command in cmd
 In settings.py : Change the Email adress details to make mail functionality work peoperly
+
+![alt tag](https://github.com/rahul-connect/RealEstate/blob/master/home.png?raw=true "Description goes here")
+
+![alt tag](https://github.com/rahul-connect/RealEstate/blob/master/listing.png?raw=true "Description goes here")
+
+
+![alt tag](https://github.com/rahul-connect/RealEstate/blob/master/admin.png?raw=true "Description goes here")
